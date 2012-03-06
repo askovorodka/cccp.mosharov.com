@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/koleso/modules/questions/front/templates
+END
+show_single_questions.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/koleso/modules/questions/front/templates/show_single_questions.html
+END
+questions_cat.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/koleso/modules/questions/front/templates/questions_cat.html
+END
+questions_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/koleso/modules/questions/front/templates/questions_list.html
+END
+questions_support.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/koleso/modules/questions/front/templates/questions_support.html
+END

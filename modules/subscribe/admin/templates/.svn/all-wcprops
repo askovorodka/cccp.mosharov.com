@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates
+END
+subscribe.a_user_mail.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates/subscribe.a_user_mail.html
+END
+subscribe.a_templates.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates/subscribe.a_templates.html
+END
+subscribe.a_groups.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates/subscribe.a_groups.html
+END
+subscribe.a_users.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates/subscribe.a_users.html
+END
+subscribe.a_edit_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates/subscribe.a_edit_template.html
+END
+subscribe.a_send.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/koleso/modules/subscribe/admin/templates/subscribe.a_send.html
+END

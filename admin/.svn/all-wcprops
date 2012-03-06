@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/66/koleso/admin
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/66/koleso/admin/main.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/koleso/admin/login.php
+END
+_priv.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/koleso/admin/_priv.php
+END
+priv.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/17/koleso/admin/priv.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/koleso/admin/index.php
+END
+error_log
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/koleso/admin/error_log
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/koleso/admin/.htaccess
+END

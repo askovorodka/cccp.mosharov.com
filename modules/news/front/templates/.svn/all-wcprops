@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/koleso/modules/news/front/templates
+END
+show_single_news.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/koleso/modules/news/front/templates/show_single_news.html
+END
+client_kategor_news.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/koleso/modules/news/front/templates/client_kategor_news.tpl
+END
+news_support.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/koleso/modules/news/front/templates/news_support.html
+END
+client_cat.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/koleso/modules/news/front/templates/client_cat.html
+END
+news_cat.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/koleso/modules/news/front/templates/news_cat.html
+END
+news_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/koleso/modules/news/front/templates/news_list.html
+END

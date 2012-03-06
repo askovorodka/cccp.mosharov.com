@@ -1,0 +1,98 @@
+10
+
+dir
+152
+https://mosharov.googlecode.com/svn/koleso/templates/uploaded_files
+https://mosharov.googlecode.com/svn
+
+
+
+2011-07-21T13:19:39.843409Z
+17
+andrey.schmitz@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4348ae4c-d2ae-f2fc-3d50-e0a6c441ee88
+
+arial.ttf
+file
+
+
+
+
+2011-09-21T07:58:08.000000Z
+5995c725ca5a13be62d3dc75c2fc59fc
+2011-07-21T13:19:39.843409Z
+17
+andrey.schmitz@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+367112
+
+avatars
+dir
+
+banners
+dir
+
+documents_images
+dir
+
+firms
+dir
+
+news
+dir
+
+photos
+dir
+
+shop_images
+dir
+
+tables
+dir
+
+tree_backgrounds
+dir
+
+tree_files
+dir
+
+tree_images
+dir
+
+user_photos
+dir
+
